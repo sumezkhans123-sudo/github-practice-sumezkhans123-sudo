@@ -10,3 +10,6 @@ I hope to learn how to collaborate using GitHub, work with pull requests, and fo
 
 ## Fun Fact
 I enjoy learning new tools by building hands-on projects.
+
+## About Me
+I am a student passionate about learning modern software development workflows and tools.
